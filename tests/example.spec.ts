@@ -60,6 +60,10 @@ const page = await context.newPage();
       // }
       //hi this is added by original developer
   Hello there *********
+
+  changes 1
+  changes 2
+  changes 3
       // handle drag n drop
       // await page.goto("https://testautomationpractice.blogspot.com/");
       // let draggable = page.locator("//div[@id='draggable']");
