@@ -58,6 +58,7 @@ const page = await context.newPage();
       //   await page.mouse.down();
         
       // }
+      //hi this is added by original developer
   
       // handle drag n drop
       // await page.goto("https://testautomationpractice.blogspot.com/");
