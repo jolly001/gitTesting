@@ -64,6 +64,9 @@ const page = await context.newPage();
   changes 1
   changes 2
   changes 3
+  changes 4 
+  changes 5
+  chnages 6
       // handle drag n drop
       // await page.goto("https://testautomationpractice.blogspot.com/");
       // let draggable = page.locator("//div[@id='draggable']");
